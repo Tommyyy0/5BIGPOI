@@ -5,3 +5,4 @@ CIAO 5B
 <h2>Spiegazione funzionalità file RubricaScarcellaThomas</h2>
 <p>Il programma all'avvio controlla se esiste il file contatto.txt se esiste usa quello già presente per aggiungere informazioni, oppure se non esiste ne crea uno nuovo.</p>
 <p>Dopo che fa questo passaggio chiede di inserire (NOME,COGNOME NUMERO DI TELEFONO).</p>
+<p>Alla fine delle richieste chiude il file e termina l'esecuzione</p>
